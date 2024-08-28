@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/projeto-galvao/static/css/main.432f6a47.css",
+    "main.js": "/projeto-galvao/static/js/main.c395baad.js",
+    "static/js/453.0cff7d2c.chunk.js": "/projeto-galvao/static/js/453.0cff7d2c.chunk.js",
+    "static/media/porQueNos.jpg": "/projeto-galvao/static/media/porQueNos.b2c4bf830fca20da6b02.jpg",
+    "static/media/bgWelcome.jpg": "/projeto-galvao/static/media/bgWelcome.18622156883e7c602aa0.jpg",
+    "static/media/1-servico.jpg": "/projeto-galvao/static/media/1-servico.42189cd7e83f8b8f0257.jpg",
+    "static/media/5-servico.jpg": "/projeto-galvao/static/media/5-servico.9b8ce02dc123ded05142.jpg",
+    "static/media/6-servico.jpg": "/projeto-galvao/static/media/6-servico.8875bd1aa7d44b57b38a.jpg",
+    "static/media/3-servico.jpg": "/projeto-galvao/static/media/3-servico.b28290b1bf5b30b09b94.jpg",
+    "static/media/2-servico.jpg": "/projeto-galvao/static/media/2-servico.3ab39d3aca3bacfad1af.jpg",
+    "static/media/4-servico.jpg": "/projeto-galvao/static/media/4-servico.9e38069f3795fd50e6c6.jpg",
+    "static/media/2-logo-p-500.png": "/projeto-galvao/static/media/2-logo-p-500.603f88c46417255a7249.png",
+    "static/media/logo.png": "/projeto-galvao/static/media/logo.891ccf928fdc761ee81b.png",
+    "static/media/phone-icon.svg": "/projeto-galvao/static/media/phone-icon.4f0612d7dd127772767208acc261065f.svg",
+    "static/media/instagram-icon.svg": "/projeto-galvao/static/media/instagram-icon.1652f36c8fe91413f317812ba9ad43d2.svg",
+    "static/media/whatsapp-icon-black.svg": "/projeto-galvao/static/media/whatsapp-icon-black.55b6ae94fe41b32cee337bcc0c059070.svg",
+    "static/media/pin-icon.svg": "/projeto-galvao/static/media/pin-icon.da1f488be8102bd4094ec792d39ab053.svg",
+    "static/media/checkmark-icon-white.svg": "/projeto-galvao/static/media/checkmark-icon-white.40488a267af7bada0890aa30fcee96a2.svg",
+    "static/media/checkmark-icon.svg": "/projeto-galvao/static/media/checkmark-icon.b9dc94688e7625011964.svg",
+    "index.html": "/projeto-galvao/index.html",
+    "main.432f6a47.css.map": "/projeto-galvao/static/css/main.432f6a47.css.map",
+    "main.c395baad.js.map": "/projeto-galvao/static/js/main.c395baad.js.map",
+    "453.0cff7d2c.chunk.js.map": "/projeto-galvao/static/js/453.0cff7d2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.432f6a47.css",
+    "static/js/main.c395baad.js"
+  ]
+}
