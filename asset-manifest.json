@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projeto-galvao/static/css/main.432f6a47.css",
-    "main.js": "/projeto-galvao/static/js/main.c395baad.js",
+    "main.css": "/projeto-galvao/static/css/main.fa3ccdbb.css",
+    "main.js": "/projeto-galvao/static/js/main.e5793cbe.js",
     "static/js/453.0cff7d2c.chunk.js": "/projeto-galvao/static/js/453.0cff7d2c.chunk.js",
     "static/media/porQueNos.jpg": "/projeto-galvao/static/media/porQueNos.b2c4bf830fca20da6b02.jpg",
     "static/media/bgWelcome.jpg": "/projeto-galvao/static/media/bgWelcome.18622156883e7c602aa0.jpg",
@@ -20,12 +20,12 @@
     "static/media/checkmark-icon-white.svg": "/projeto-galvao/static/media/checkmark-icon-white.40488a267af7bada0890aa30fcee96a2.svg",
     "static/media/checkmark-icon.svg": "/projeto-galvao/static/media/checkmark-icon.b9dc94688e7625011964.svg",
     "index.html": "/projeto-galvao/index.html",
-    "main.432f6a47.css.map": "/projeto-galvao/static/css/main.432f6a47.css.map",
-    "main.c395baad.js.map": "/projeto-galvao/static/js/main.c395baad.js.map",
+    "main.fa3ccdbb.css.map": "/projeto-galvao/static/css/main.fa3ccdbb.css.map",
+    "main.e5793cbe.js.map": "/projeto-galvao/static/js/main.e5793cbe.js.map",
     "453.0cff7d2c.chunk.js.map": "/projeto-galvao/static/js/453.0cff7d2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.432f6a47.css",
-    "static/js/main.c395baad.js"
+    "static/css/main.fa3ccdbb.css",
+    "static/js/main.e5793cbe.js"
   ]
 }
